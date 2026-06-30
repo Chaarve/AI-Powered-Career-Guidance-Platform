@@ -350,3 +350,7 @@ For support and questions:
 - [ ] Scholarship information integration
 - [ ] Application deadline tracking
 - [ ] Alumni network integration
+=======
+# AI-Powered-Career-Guidance-Platform
+Eklavya – An AI-powered career guidance platform that delivers personalized career recommendations, skill-gap analysis, and learning roadmaps.
+>>>>>>> ac8efe61c27ec084ba5632f7217715853d665cb4
