@@ -1,0 +1,20 @@
+{
+  "name": "collegedekho-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes college data from collegedekho.com and stores in MongoDB",
+  "main": "src/scraper.js",
+  "scripts": {
+    "start": "node src/scraper.js",
+    "scrape": "node src/scraper.js",
+    "query": "node src/query.js",
+    "test-db": "node src/db.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.2.0",
+    "puppeteer": "^22.6.0",
+    "dotenv": "^16.4.5",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "p-limit": "^3.1.0"
+  }
+}

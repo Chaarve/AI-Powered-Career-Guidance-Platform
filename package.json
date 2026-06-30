@@ -1,0 +1,48 @@
+{
+  "name": "ekalavya-career-guidance",
+  "version": "1.0.0",
+  "description": "Personalized career guidance system for Indian students",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server/index.js",
+    "client": "cd client && npm run dev",
+    "install-all": "npm install && cd client && npm install",
+    "seed": "node scripts/dataSeeder.js",
+    "scrape": "node scripts/scraper.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.15.0",
+    "bcryptjs": "^2.4.3",
+    "cheerio": "^1.2.0",
+    "connect-mongo": "^4.6.0",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "express-session": "^1.19.0",
+    "helmet": "^7.0.0",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^7.8.9",
+    "morgan": "^1.10.0",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "pdf-parse": "^2.4.5",
+    "puppeteer": "^21.11.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "education",
+    "career",
+    "guidance",
+    "india",
+    "students"
+  ],
+  "author": "EKALAVYA Team",
+  "license": "MIT"
+}

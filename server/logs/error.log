@@ -1,0 +1,201 @@
+[2026-04-08T16:43:04.281Z] ERROR: Create/update profile error:
+[2026-04-08T16:44:25.681Z] ERROR: Create/update profile error:
+[2026-04-08T16:44:40.859Z] ERROR: Create/update profile error:
+[2026-04-08T16:46:38.218Z] ERROR: Create/update profile error:
+[2026-04-08T16:46:57.490Z] ERROR: Create/update profile error:
+[2026-04-08T16:48:34.556Z] ERROR: Create/update profile error:
+[2026-04-08T16:48:34.565Z] ERROR: Error stack:
+[2026-04-08T16:51:23.947Z] ERROR: Create/update profile error:
+[2026-04-08T16:51:23.973Z] ERROR: Error stack:
+[2026-04-08T16:54:16.947Z] ERROR: Auth middleware - No token provided
+[2026-04-08T16:54:23.463Z] ERROR: Create/update profile error:
+[2026-04-08T16:54:23.503Z] ERROR: Error stack:
+[2026-04-08T16:55:24.966Z] ERROR: Create/update profile error:
+[2026-04-08T16:55:24.975Z] ERROR: Error stack:
+[2026-04-08T16:55:34.376Z] ERROR: Create/update profile error:
+[2026-04-08T16:55:34.398Z] ERROR: Error stack:
+[2026-04-08T16:56:28.539Z] ERROR: Create/update profile error:
+[2026-04-08T16:56:28.577Z] ERROR: Error stack:
+[2026-04-08T16:57:22.491Z] ERROR: Create/update profile error:
+[2026-04-08T16:57:22.494Z] ERROR: Error stack:
+[2026-04-08T16:57:25.416Z] ERROR: Create/update profile error:
+[2026-04-08T16:57:25.442Z] ERROR: Error stack:
+[2026-04-08T16:57:39.146Z] ERROR: Create/update profile error:
+[2026-04-08T16:57:39.185Z] ERROR: Error stack:
+[2026-04-08T16:57:41.277Z] ERROR: Create/update profile error:
+[2026-04-08T16:57:41.308Z] ERROR: Error stack:
+[2026-04-08T17:01:04.601Z] ERROR: Create/update profile error:
+[2026-04-08T17:01:04.627Z] ERROR: Error stack:
+[2026-04-08T17:01:07.601Z] ERROR: Create/update profile error:
+[2026-04-08T17:01:07.625Z] ERROR: Error stack:
+[2026-04-08T17:02:18.772Z] ERROR: Create/update profile error:
+[2026-04-08T17:02:18.775Z] ERROR: Error stack:
+[2026-04-08T17:02:20.183Z] ERROR: Create/update profile error:
+[2026-04-08T17:02:20.187Z] ERROR: Error stack:
+[2026-04-08T17:02:21.874Z] ERROR: Create/update profile error:
+[2026-04-08T17:02:21.902Z] ERROR: Error stack:
+[2026-04-08T17:02:23.295Z] ERROR: Create/update profile error:
+[2026-04-08T17:02:23.330Z] ERROR: Error stack:
+[2026-04-08T17:02:31.889Z] ERROR: Create/update profile error:
+[2026-04-08T17:02:31.913Z] ERROR: Error stack:
+[2026-04-08T17:18:47.959Z] ERROR: Error generating recommendations:
+[2026-04-08T17:18:47.964Z] ERROR: Error generating recommendations:
+[2026-04-08T17:18:47.967Z] ERROR: Error generating recommendations:
+[2026-04-08T17:18:54.932Z] ERROR: Error generating recommendations:
+[2026-04-08T17:18:54.938Z] ERROR: Error generating recommendations:
+[2026-04-08T17:18:54.943Z] ERROR: Error generating recommendations:
+[2026-04-08T17:20:43.510Z] ERROR: Error generating recommendations:
+[2026-04-08T17:20:43.656Z] ERROR: Error generating recommendations:
+[2026-04-08T17:23:54.975Z] ERROR: Auth middleware - No token provided
+[2026-04-08T17:30:32.869Z] ERROR: Auth middleware - No token provided
+[2026-04-09T15:01:06.302Z] ERROR: Auth middleware - No token provided
+[2026-04-09T15:02:30.338Z] ERROR: Error generating recommendations:
+[2026-04-09T15:02:30.348Z] ERROR: Error generating recommendations:
+[2026-04-09T15:07:51.959Z] ERROR: Error generating recommendations:
+[2026-04-09T15:07:52.014Z] ERROR: Error generating recommendations:
+[2026-04-09T15:07:52.052Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:04.146Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:04.156Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:08.131Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:08.138Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:08.146Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:09.525Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:09.555Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:09.635Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:16.660Z] ERROR: Error generating recommendations:
+[2026-04-09T15:08:16.669Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:53.319Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:53.328Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:55.983Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:56.002Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:56.062Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:57.267Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:57.275Z] ERROR: Error generating recommendations:
+[2026-04-09T15:09:57.279Z] ERROR: Error generating recommendations:
+[2026-04-09T15:10:56.824Z] ERROR: Auth middleware - No token provided
+[2026-04-09T15:11:02.216Z] ERROR: Error generating recommendations:
+[2026-04-09T15:11:02.226Z] ERROR: Error generating recommendations:
+[2026-04-09T15:12:54.347Z] ERROR: Error generating recommendations:
+[2026-04-09T15:12:54.361Z] ERROR: Error generating recommendations:
+[2026-04-09T15:13:06.061Z] ERROR: Error generating recommendations:
+[2026-04-09T15:13:06.078Z] ERROR: Error generating recommendations:
+[2026-04-09T15:13:06.171Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:06.591Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:06.618Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:06.631Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:34.456Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:34.472Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:42.260Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:42.280Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:55.139Z] ERROR: Error generating recommendations:
+[2026-04-09T15:15:55.153Z] ERROR: Error generating recommendations:
+[2026-04-09T15:16:12.695Z] ERROR: Error generating recommendations:
+[2026-04-09T15:16:12.704Z] ERROR: Error generating recommendations:
+[2026-04-09T15:36:30.540Z] ERROR: Error generating recommendations:
+[2026-04-09T15:36:30.561Z] ERROR: Error generating recommendations:
+[2026-04-09T15:36:34.414Z] ERROR: Error generating recommendations:
+[2026-04-09T15:36:34.424Z] ERROR: Error generating recommendations:
+[2026-04-09T15:36:55.118Z] ERROR: Error generating recommendations:
+[2026-04-09T15:36:55.126Z] ERROR: Error generating recommendations:
+[2026-04-09T15:37:22.417Z] ERROR: Error generating recommendations:
+[2026-04-09T15:37:22.424Z] ERROR: Error generating recommendations:
+[2026-04-09T16:54:04.349Z] ERROR: Auth middleware - No token provided
+[2026-04-09T16:56:01.668Z] ERROR: Error generating recommendations:
+[2026-04-09T16:56:01.877Z] ERROR: Error generating recommendations:
+[2026-04-09T17:16:03.820Z] ERROR: Error generating recommendations:
+[2026-04-09T17:19:50.245Z] ERROR: Error generating recommendations:
+[2026-04-09T17:19:50.281Z] ERROR: Error generating recommendations:
+[2026-04-09T17:19:50.450Z] ERROR: Error generating recommendations:
+[2026-04-10T05:22:51.346Z] ERROR: Auth middleware - No token provided
+[2026-04-10T05:22:56.048Z] ERROR: Error generating recommendations:
+[2026-04-10T05:22:56.064Z] ERROR: Error generating recommendations:
+[2026-04-10T05:23:05.026Z] ERROR: Error generating recommendations:
+[2026-04-10T05:23:05.032Z] ERROR: Error generating recommendations:
+[2026-04-10T05:23:20.710Z] ERROR: Error generating recommendations:
+[2026-04-10T05:23:20.717Z] ERROR: Error generating recommendations:
+[2026-04-10T05:25:40.917Z] ERROR: Auth middleware - No token provided
+[2026-04-10T05:27:49.342Z] ERROR: Error generating recommendations:
+[2026-04-10T05:27:49.353Z] ERROR: Error generating recommendations:
+[2026-04-10T06:36:53.244Z] ERROR: Auth middleware - No token provided
+[2026-04-10T06:43:43.471Z] ERROR: Auth middleware - No token provided
+[2026-04-10T06:43:48.822Z] ERROR: Error generating recommendations:
+[2026-04-10T06:43:48.838Z] ERROR: Error generating recommendations:
+[2026-04-10T06:54:30.676Z] ERROR: Auth middleware - No token provided
+[2026-04-10T06:58:26.345Z] ERROR: Error generating recommendations:
+[2026-04-10T06:58:26.435Z] ERROR: Error generating recommendations:
+[2026-04-10T06:58:40.432Z] ERROR: Error generating recommendations:
+[2026-04-10T06:58:40.447Z] ERROR: Error generating recommendations:
+[2026-04-10T06:58:44.143Z] ERROR: Error generating recommendations:
+[2026-04-10T06:58:44.153Z] ERROR: Error generating recommendations:
+[2026-04-10T07:07:51.406Z] ERROR: Error generating recommendations:
+[2026-04-10T07:07:51.412Z] ERROR: Error generating recommendations:
+[2026-04-10T07:16:24.119Z] ERROR: Error generating recommendations:
+[2026-04-10T07:16:24.127Z] ERROR: Error generating recommendations:
+[2026-04-10T11:00:10.407Z] ERROR: Auth middleware - No token provided
+[2026-04-10T11:00:45.581Z] ERROR: ERROR: No recommendations found for user
+[2026-04-10T11:00:45.743Z] ERROR: ERROR: No recommendations found for user
+[2026-04-10T11:05:08.199Z] ERROR: Error generating recommendations:
+[2026-04-10T11:05:08.218Z] ERROR: Error generating recommendations:
+[2026-04-10T12:40:03.869Z] ERROR: Auth middleware - No token provided
+[2026-04-10T16:54:31.943Z] ERROR: Error generating recommendations:
+[2026-04-10T16:54:31.953Z] ERROR: Error generating recommendations:
+[2026-04-25T02:17:41.177Z] ERROR: Auth middleware - No token provided
+[2026-04-25T02:17:54.403Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T02:17:55.659Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:11:24.078Z] ERROR: Auth middleware - No token provided
+[2026-04-25T06:18:12.303Z] ERROR: Error generating recommendations:
+[2026-04-25T06:18:12.440Z] ERROR: Error generating recommendations:
+[2026-04-25T06:18:12.746Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:18:12.944Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:22:48.435Z] ERROR: CRITICAL ML ERROR: Failed to reach Python server or inference failed:
+[2026-04-25T06:22:48.650Z] ERROR: CRITICAL ML ERROR: Failed to reach Python server or inference failed:
+[2026-04-25T06:22:48.833Z] ERROR: CRITICAL ML ERROR: Failed to reach Python server or inference failed:
+[2026-04-25T06:22:49.628Z] ERROR: Error generating recommendations:
+[2026-04-25T06:22:49.666Z] ERROR: Error generating recommendations:
+[2026-04-25T06:22:49.807Z] ERROR: Error generating recommendations:
+[2026-04-25T06:22:50.074Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:22:50.243Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:22:50.416Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:24:21.246Z] ERROR: Error generating recommendations:
+[2026-04-25T06:24:21.512Z] ERROR: Error generating recommendations:
+[2026-04-25T06:24:21.685Z] ERROR: Error generating recommendations:
+[2026-04-25T06:24:21.811Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:24:21.985Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:24:22.036Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:26:33.976Z] ERROR: Error generating recommendations:
+[2026-04-25T06:26:34.109Z] ERROR: Error generating recommendations:
+[2026-04-25T06:26:34.274Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:26:34.414Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:26:36.395Z] ERROR: Error generating recommendations:
+[2026-04-25T06:26:36.472Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:26:42.699Z] ERROR: Error generating recommendations:
+[2026-04-25T06:26:42.933Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:30:26.390Z] ERROR: Error generating recommendations:
+[2026-04-25T06:30:26.540Z] ERROR: Error generating recommendations:
+[2026-04-25T06:30:26.700Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:30:26.869Z] ERROR: ERROR: No recommendations found for user
+[2026-04-25T06:35:57.134Z] ERROR: Error generating recommendations:
+[2026-04-25T06:35:57.167Z] ERROR: Error generating recommendations:
+[2026-05-06T13:58:34.095Z] ERROR: Auth middleware - No token provided
+[2026-05-06T14:02:16.425Z] ERROR: CRITICAL ML ERROR: Failed to reach Python server or inference failed:
+[2026-05-06T14:02:16.487Z] ERROR: CRITICAL ML ERROR: Failed to reach Python server or inference failed:
+[2026-05-06T14:10:43.981Z] ERROR: Error generating recommendations:
+[2026-05-06T14:10:44.366Z] ERROR: Error generating recommendations:
+[2026-05-06T14:10:47.845Z] ERROR: Error generating recommendations:
+[2026-05-06T14:10:48.111Z] ERROR: Error generating recommendations:
+[2026-05-06T14:39:36.076Z] ERROR: Auth middleware - No token provided
+[2026-05-06T14:46:27.470Z] ERROR: Auth middleware - No token provided
+[2026-05-06T14:50:33.422Z] ERROR: ERROR: No recommendations found for user
+[2026-05-06T14:50:33.553Z] ERROR: ERROR: No recommendations found for user
+[2026-05-06T14:50:33.603Z] ERROR: ERROR: No recommendations found for user
+[2026-05-06T14:51:30.113Z] ERROR: Auth middleware - No token provided
+[2026-05-06T17:02:33.426Z] ERROR: Auth middleware - No token provided
+[2026-05-06T17:32:18.590Z] ERROR: Auth middleware - No token provided
+[2026-05-06T17:35:36.366Z] ERROR: CRITICAL ML ERROR: Failed to reach Python server or inference failed:
+[2026-05-06T17:35:36.655Z] ERROR: CRITICAL ML ERROR: Failed to reach Python server or inference failed:
+[2026-05-15T05:20:00.812Z] ERROR: Auth middleware - No token provided
+[2026-05-15T05:25:34.848Z] ERROR: Error generating recommendations:
+[2026-05-15T05:25:35.293Z] ERROR: Error generating recommendations:
+[2026-05-15T09:17:46.644Z] ERROR: Auth middleware - No token provided
+[2026-05-15T09:52:28.783Z] ERROR: Validation error:
+[2026-05-15T09:53:08.708Z] ERROR: Validation error:
